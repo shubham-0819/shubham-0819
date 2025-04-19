@@ -24,7 +24,7 @@
 ## 📈 Experience
 ### **MapMyIndia** | Software Developer
 Designed and developed web applications using web components, JavaScript, and Angular.
-Implemented robust back-end functionality with Node.js and Express.
+Implemented robust back-end functionality with Java, Spring boot, Node.js and Express.
 Created reusable libraries and SDKs, leading to reduced development time.
 Worked closely with ML Engineers on Computer Vision and Deep Learning projects.
 Enhanced functionality of web applications with geospatial tools and technology.
