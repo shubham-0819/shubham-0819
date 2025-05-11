@@ -1,5 +1,5 @@
 
-👨‍💻 **Software Developer** at [MapMyIndia](https://github.com/MapmyIndia)
+👨‍💻 **Software Developer** at [Robomq](https://github.com/robomq)
 
 ## 🔧 Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
